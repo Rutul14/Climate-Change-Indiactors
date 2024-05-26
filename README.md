@@ -1,1 +1,1 @@
-# Climate-Change-Indiactors
+# Climate-Change-Indicators
